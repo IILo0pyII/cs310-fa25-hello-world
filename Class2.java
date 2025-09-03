@@ -1,6 +1,6 @@
 /**
  *
- * @Morgan Godwin
+ * @author Morgan
  */
 
 public class Class2 {
