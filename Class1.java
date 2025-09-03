@@ -1,6 +1,6 @@
 /**
  *
- * @Morgan Godwin
+ * @author Morgan
  */
 
 public class Class1 {
@@ -15,6 +15,10 @@ public class Class1 {
 
     private void f3(){
         // v3.0 (revised for hotfix)
+    }
+
+    private void f4() {
+        // v4.0
     }
     
     
